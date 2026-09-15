@@ -1,0 +1,6 @@
+{
+  "name": "Project Overview",
+  "description": "Summary dashboard of the project build status, implemented modules, and app environment configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
